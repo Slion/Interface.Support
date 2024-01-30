@@ -1,3 +1,9 @@
+[![Discord Invite](https://img.shields.io/discord/828559272752840713?color=%23525dea&label=Chat&logo=discord&logoColor=white)](https://discord.com/invite/7M4Ms5dMZE)
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=net.slions.interface.google)
+
 # Interface
 [Android Bluetooth keyboard](http://interface.slions.net)
 
