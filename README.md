@@ -9,7 +9,7 @@
 
 # Support
 
-From here you can get support for [Interface]. Feel free to open issues or particiape on discussions.
+From here you can get support for [Interface]. Feel free to open issues or participate on discussions.
 
 # Recommendation
 
